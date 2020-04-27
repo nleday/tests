@@ -3,3 +3,4 @@ Line added from project2 (other edit) branch
 Line added from project1 branch
 Line added from project1
 Line edit
+EDIT FROM project1
