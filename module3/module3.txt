@@ -3,8 +3,6 @@ Line added from project2 (other edit) branch
 Line added from project1 branch
 Line added from project1
 Line edit
-<<<<<<< HEAD
 TEST added
-=======
 EDIT FROM project1
->>>>>>> efbc776964b83ae6920a09fe1ba5dae72b35fbe3
+HELLO
