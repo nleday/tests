@@ -6,3 +6,4 @@ Line edit
 TEST added
 EDIT FROM project1
 HELLO
+TEST
